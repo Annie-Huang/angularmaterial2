@@ -11,6 +11,7 @@ import { MainContentComponent } from './components/main-content/main-content.com
 import { SidenavComponent } from './components/sidenav/sidenav.component';
 import {ContactmanagerRoutingModule} from './contactmanager-routing.module';
 import {UserService} from './services/user.service';
+import {HttpClientModule} from '@angular/common/http';
 
 @NgModule({
   declarations: [ContactmanagerAppComponent, ToolbarComponent, MainContentComponent, SidenavComponent],
@@ -19,7 +20,8 @@ import {UserService} from './services/user.service';
     MaterialModule,
     FormsModule,
     FlexLayoutModule,
-    ContactmanagerRoutingModule
+    ContactmanagerRoutingModule,
+    HttpClientModule
   ],
   providers: [UserService]
 })
