@@ -3,8 +3,7 @@ import { NgModule } from '@angular/core';
 import {MatButtonModule, MatCheckboxModule} from '@angular/material';
 
 @NgModule({
-  declarations: [],
-  imports: [
+  exports: [
     MatButtonModule,
     MatCheckboxModule
   ]
