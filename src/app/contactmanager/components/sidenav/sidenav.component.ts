@@ -17,7 +17,7 @@ export class SidenavComponent implements OnInit {
   //   this.mediaMatcher.addListener(mql =>
   //     zone.run(() => this.mediaMatcher = mql));
   // }
-  
+
   constructor() { }
 
   ngOnInit() {
