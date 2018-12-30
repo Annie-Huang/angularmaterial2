@@ -57,6 +57,16 @@ Layout Component
 #################
 https://material.angular.io/components/sidenav/api
 
+Flexbox
+- Flexbox CSS + mediaQuery
+Sidenav
+- Modes: over, push and side
+Toolbar
+- Container for headers, titles or actions
+Media queries
+- Matchmedia – Low-level service
+- matchMedia(`(max-width: 720px)`);
+
 
 
 
