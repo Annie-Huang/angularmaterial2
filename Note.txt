@@ -19,6 +19,8 @@ Prebuild theme is in: D:\react\angularmaterial2\node_modules\@angular\material\p
 D:\react\angularmaterial2>ng g m demo\demo --flat --routing
 D:\react\angularmaterial2>ng g c demo/buttons --no-spec --inline-style --inline-template
 
+D:\react\angularmaterial2>ng g c demo\flexbox --no-spec
+
 ###################################################################
 
 Angular Material
@@ -40,8 +42,8 @@ D:\react>ng new angularmaterial2
 https://material.angular.io/components/button/overview
 https://material.angular.io/components/checkbox/overview
 
-
-
+Layout Component
+#################
 
 
 
