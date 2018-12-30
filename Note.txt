@@ -20,6 +20,7 @@ D:\react\angularmaterial2>ng g m demo\demo --flat --routing
 D:\react\angularmaterial2>ng g c demo/buttons --no-spec --inline-style --inline-template
 
 D:\react\angularmaterial2>ng g c demo\flexbox --no-spec
+D:\react\angularmaterial2>npm install --save @angular/flex-layout
 
 ###################################################################
 
