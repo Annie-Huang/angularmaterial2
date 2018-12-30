@@ -24,6 +24,10 @@ D:\react\angularmaterial2>ng g c demo/buttons --no-spec --inline-style --inline-
 D:\react\angularmaterial2>ng g c demo\flexbox --no-spec
 D:\react\angularmaterial2>npm install --save @angular/flex-layout
 
+D:\react\angularmaterial2>ng g m contactmanager
+
+
+
 ###################################################################
 
 Angular Material
