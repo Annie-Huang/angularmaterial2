@@ -5,7 +5,7 @@ https://github.com/Annie-Huang/angularmaterial
 https://material.angular.io/
 https://google.github.io/material-design-icons/
 https://tburleson-layouts-demos.firebaseapp.com/#/docs	<< doc for @angular/flex-layout
-
+https://angular.io/guide/providers
 
 ###################################################################
 
@@ -31,6 +31,8 @@ D:\react\angularmaterial2>ng g c contactmanager\contactmanager-app --flat --no-s
 D:\react\angularmaterial2>ng g c contactmanager\components\toolbar --no-spec
 D:\react\angularmaterial2>ng g c contactmanager\components\main-content --no-spec
 D:\react\angularmaterial2>ng g c contactmanager\components\sidenav --no-spec
+
+D:\react\angularmaterial2>ng g s contactmanager\services\user --no-spec
 
 ###################################################################
 
@@ -68,8 +70,9 @@ Media queries
 - matchMedia(`(max-width: 720px)`);
 
 
-
-
+Displaying Real Data
+##########################
+https://angular-material-api.azurewebsites.net/users
 
 
 
