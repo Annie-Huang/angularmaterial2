@@ -1,0 +1,27 @@
+D:\react\angular-material	<< Lecture notes.
+https://github.com/ajtowf/angularmaterial
+https://github.com/Annie-Huang/angularmaterial
+
+D:\react\angularmaterial>tsc --version
+D:\react\angularmaterial>npm install -g typescript@2.4.2
+D:\react\angularmaterial>npm -v @angular/cli
+D:\react\angularmaterial>npm cache clean		<< clean npm cache, don't really need to run this after @npm because it do it automatically.
+
+###################################################################
+
+Angular Material
+- https://material.angular.io/
+- https://github.com/angular/material2
+
+Principles
+Material is the metaphor
+Bold, graphic and intentional
+Motion provides meaning
+
+
+Getting Started
+#################
+D:\react>ng new angularmaterial2
+? Would you like to add Angular routing? Yes
+? Which stylesheet format would you like to use? SCSS   [ http://sass-lang.com   ]
+
