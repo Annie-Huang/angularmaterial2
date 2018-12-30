@@ -25,8 +25,11 @@ D:\react\angularmaterial2>ng g c demo\flexbox --no-spec
 D:\react\angularmaterial2>npm install --save @angular/flex-layout
 
 D:\react\angularmaterial2>ng g m contactmanager
+D:\react\angularmaterial2>ng g c contactmanager\contactmanager-app --flat --no-spec --inline-style --inline-template
 
-
+D:\react\angularmaterial2>ng g c contactmanager\components\toolbar --no-spec
+D:\react\angularmaterial2>ng g c contactmanager\components\main-content --no-spec
+D:\react\angularmaterial2>ng g c contactmanager\components\sidenav --no-spec
 
 ###################################################################
 
