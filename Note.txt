@@ -34,6 +34,9 @@ D:\react\angularmaterial2>ng g c contactmanager\components\sidenav --no-spec
 
 D:\react\angularmaterial2>ng g s contactmanager\services\user --no-spec
 
+D:\react\angularmaterial2>ng g class contactmanager\models\user
+D:\react\angularmaterial2>ng g class contactmanager\models\note
+
 ###################################################################
 
 Angular Material
