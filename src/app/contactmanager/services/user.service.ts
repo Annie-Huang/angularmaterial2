@@ -9,13 +9,10 @@ import {BehaviorSubject, Observable} from 'rxjs';
 // the service to be available only if the consumer imports a particular @NgModule.
 // e.g.
 // @Injectable({
-//   providedIn: UserModule,
-// })
-// @Injectable({
-//   providedIn: 'root'
+//   providedIn: ContactmanagerModule
 // })
 @Injectable({
-  providedIn: ContactmanagerModule
+  providedIn: 'root'
 })
 export class UserService {
 
