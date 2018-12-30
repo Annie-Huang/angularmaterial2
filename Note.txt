@@ -16,6 +16,9 @@ D:\react\angularmaterial2>ng g m shared\material --flat
 
 Prebuild theme is in: D:\react\angularmaterial2\node_modules\@angular\material\prebuilt-themes
 
+D:\react\angularmaterial2>ng g m demo\demo --flat --routing
+D:\react\angularmaterial2>ng g c demo/buttons --no-spec --inline-style --inline-template
+
 ###################################################################
 
 Angular Material
