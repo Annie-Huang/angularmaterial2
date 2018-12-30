@@ -9,6 +9,7 @@ import { ContactmanagerAppComponent } from './contactmanager-app.component';
 import { ToolbarComponent } from './components/toolbar/toolbar.component';
 import { MainContentComponent } from './components/main-content/main-content.component';
 import { SidenavComponent } from './components/sidenav/sidenav.component';
+import {ContactmanagerRoutingModule} from './contactmanager-routing.module';
 
 @NgModule({
   declarations: [ContactmanagerAppComponent, ToolbarComponent, MainContentComponent, SidenavComponent],
@@ -16,7 +17,8 @@ import { SidenavComponent } from './components/sidenav/sidenav.component';
     CommonModule,
     MaterialModule,
     FormsModule,
-    FlexLayoutModule
+    FlexLayoutModule,
+    ContactmanagerRoutingModule
   ]
 })
 export class ContactmanagerModule { }
