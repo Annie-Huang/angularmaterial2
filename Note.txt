@@ -3,6 +3,8 @@ https://github.com/ajtowf/angularmaterial
 https://github.com/Annie-Huang/angularmaterial
 
 https://google.github.io/material-design-icons/
+https://tburleson-layouts-demos.firebaseapp.com/#/docs	<< doc for @angular/flex-layout
+
 
 ###################################################################
 
