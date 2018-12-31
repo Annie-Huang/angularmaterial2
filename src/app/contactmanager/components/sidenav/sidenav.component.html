@@ -20,7 +20,7 @@ in D:\react\angularmaterial2\src\app\contactmanager\contactmanager-routing.modul
     <mat-nav-list>
       <!-- If you links to an observable, you will do it pipe it to async -->
       <mat-list-item *ngFor="let user of users | async">
-        <a matLine href="#">
+        <a matLine [routerLink]="['/contactmanager', user.id]">
           <!-- Do not use avatar because <mat-icon svgIcon='...'> does not seem to work in angular material 7. https://github.com/angular/material2/issues/11151 -->
           <!--<mat-icon svgIcon="{{user.avatar}}"></mat-icon>-->
           {{ user.name }}
